@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Poqob aka Dağ</h1>
-<h3 align="center">Computer Vision, IoT, Robotics, Mobile Development</h3>
+<h3 align="center">Computer Vision, IoT, Robotics, AI</h3>
 
-- 🌱 I’m currently learning **Network design for better understanding IoT,**
+- 🌱 I’m currently learning **LLM Architectures, Kernel Design (Embedded Linux)**
 
-- 💬 Ask me about **Computer Vision, Flutter**
+- 💬 Ask me about **Computer Vision Models and Architecture, IoT(stm,esp32,arduino), Hardware Communication Protocols, Flutter**
 
 - 📫 How to reach me **mustafa.bicer1@ogr.sakarya.edu.tr**
 
