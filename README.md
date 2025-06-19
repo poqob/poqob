@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Computer Vision Models and Architecture, IoT(stm,esp32,arduino), Hardware Communication Protocols, Flutter**
 
-- 📫 How to reach me **mustafa.bicer1@ogr.sakarya.edu.tr**
+- 📫 How to reach me **mustafabicer.iletisim@gmail.com**
 
 
 
