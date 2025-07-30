@@ -14,6 +14,4 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poqob&show_icons=true&theme=dracula&locale=en&layout=compact" alt="poqob" /></p>
 </div>
 
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=poqob&theme=dark" alt="poqob" /></p>
-</div>
+
