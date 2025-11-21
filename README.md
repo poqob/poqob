@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poqob aka Dağ</h1>
 <h3 align="center">AI, Application Development</h3>
 
-- 🌱 I'm currently learning **LLM Architectures**
-
 - 💬 Ask me about **Vision Models, LLM's and Workflow Automation (n8n), Edge-AI Solutions, Flutter.**
 
 - 📫 How to reach me **mustafabicer.iletisim@gmail.com**
