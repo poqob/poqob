@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Poqob aka Dağ</h1>
-<h3 align="center">AI, IoT, Robotics</h3>
+<h3 align="center">AI, Application Development</h3>
 
 - 🌱 I'm currently learning **LLM Architectures**
 
-- 💬 Ask me about **Computer Vision Models and Architecture, IoT(stm,esp32,arduino), Hardware Communication Protocols, Flutter**
+- 💬 Ask me about **Vision Models, LLM's and Workflow Automation (n8n), Edge-AI Solutions, Flutter.**
 
 - 📫 How to reach me **mustafabicer.iletisim@gmail.com**
 
